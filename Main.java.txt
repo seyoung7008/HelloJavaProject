@@ -5,12 +5,8 @@ public class Main{
 
 
 		System.out.println("Version2");
-<<<<<<< HEAD
+
 
 		System.out.println("Version3");
-
-
-=======
->>>>>>> parent of ab1a95b... version3 text added
 	}
 }
